@@ -1,7 +1,8 @@
 ### Hello! My name is Murtaza Shabbir ! 👋
 
 - 🌱 Learning & Developing bit by bit
-- I am looking for a new role as in Software Engineer Developer and would appreciate your support. Thank you in advance for any connections, advice, or opportunities you can offer. 
+- I am looking for a new role as in Software Engineer Developer and would appreciate your support. Thank you in advance for any connections, advice, or opportunities you can offer.
+- RESUME LINK : https://bit.ly/Resume-Murtaza-Masalawala
 
 
 
