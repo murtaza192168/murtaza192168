@@ -9,7 +9,7 @@
 
 **Connect with me:**
 
-<a href="(https://bit.ly/linkedin-profile-murtaza-shabbir">
+<a href="https://bit.ly/linkedin_profile-murtaza-shabbir">
   <img align="left" alt="'mail Id" width="22px" src="https://img.icons8.com/ios-filled/2x/linkedin.png" />
 </a>
 <a href="murtazacloudwork1252@gmail.com">
