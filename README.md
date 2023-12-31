@@ -2,7 +2,7 @@
 
 - 🌱 Learning & Developing bit by bit
 - I am looking for a new role as in Software Engineer Developer and would appreciate your support. Thank you in advance for any connections, advice, or opportunities you can offer.
-- RESUME LINK : https://bit.ly/Murtaza_Masalawala-Resume
+- RESUME LINK : https://www.canva.com/design/DAF4Plmmpwo/dmDhWjiar5YMfJA_DQOHMA/view?utm_content=DAF4Plmmpwo&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 
 
