@@ -1,7 +1,7 @@
 ### Hello! My name is Murtaza Shabbir ! 👋
 
 - 🌱 Learning & Developing bit by bit
-- RESUME LINK : https://www.canva.com/design/DAF4Plmmpwo/dmDhWjiar5YMfJA_DQOHMA/view?utm_content=DAF4Plmmpwo&utm_campaign=designshare&utm_medium=link&utm_source=editor
+- RESUME LINK : https://bit.ly/Murtaza_Masalawala--Resume
 
 **Connect with me:**
 
