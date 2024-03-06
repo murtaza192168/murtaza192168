@@ -1,7 +1,7 @@
 ### Hello! My name is Murtaza Shabbir ! 👋
 
 - 🌱 Learning & Developing bit by bit
-- RESUME LINK : https://bit.ly/Murtaza_Masalawala--Resume
+
 
 **Connect with me:**
 
