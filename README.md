@@ -1,46 +1,27 @@
-### Hello! My name is Murtaza Shabbir ! 👋
-
-- 🌱 Learning & Developing bit by bit
-
-
-**Connect with me:**
-
-<a href="https://bit.ly/linkedin_profile-murtaza-shabbir">
-  <img align="left" alt="'mail Id" width="22px" src="https://img.icons8.com/ios-filled/2x/linkedin.png" />
-</a>
-<a href="murtazacloudwork1252@gmail.com">
-  <img align="left" alt="'mail Id" width="22px" src="https://img.icons8.com/ios-filled/2x/gmail.png" />
-</a>
-
-<a href="https://www.instagram.com/coding_n_dev.io/">
-  <img align="left" alt="Instagram profile with programming and stuff" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<br/>
+# 💫 About Me:
+👋 Hello, I'm Murtaza Shabbir!<br> 🌱 Aspiring Developer: I’m constantly working on improving my programming skills to keep up with industry trends.<br> 💻 Passionate Programmer: Enthusiastic about coding and dedicated to learning new technologies every day, bit by bit.<br>⚽ Football Lover & Gym Enthusiast: When I'm not coding, you'll find me on the football field or working out at the gym!<br>
 
 
-**Languages and Tools:**
-<br/>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/> 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/azatrum_192.168/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@murtazashabbir1252) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/azatrum_192168) 
 
+# 💻 Tech Stack:
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=murtaza192168&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=murtaza192168&theme=solarized-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=murtaza192168&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="370" height="290" />
-<br/><br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=murtaza192168&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=murtaza192168&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=murtaza192168&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtaza192168&layout=compact&hide=html" alt="murtaza192168" /></p>
-<br/>
-<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=murtaza192168&show_icons=true alt=murtaza192168 /> </p>
-
-<!---
-murtaza192168/murtaza192168 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
